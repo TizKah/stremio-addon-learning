@@ -118,7 +118,7 @@ def cache_manage(skip, now):
                 cached_movies = data.get("movies", [])
                 count = data.get("count")
                 
-            if last_updated_str:
+            if last_updated_str and skip < (count // ITEMS_PER_PAGE):
                 last_updated = datetime.fromisoformat(last_updated_str)
                 
                 if now - last_updated < timedelta(hours=CACHE_DURATION_HOURS):
