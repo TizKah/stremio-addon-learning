@@ -118,7 +118,7 @@ def cache_manage(skip, now):
                 cached_movies = data.get("movies", [])
                 count = data.get("count")
                 
-            if last_updated_str and skip < len(cached_movies):
+            if last_updated_str:
                 last_updated = datetime.fromisoformat(last_updated_str)
                 
                 if now - last_updated < timedelta(hours=CACHE_DURATION_HOURS):
@@ -176,10 +176,15 @@ def save_cache(movies_for_stremio, now):
     if movies_for_stremio:
         try:
             with open(CACHE_FILE, "w") as file:
+                try:
+                    data = json.load(file)
+                    count = data.get("count")
+                except:
+                    count = 0
                 json.dump({
                     "movies": movies_for_stremio,
                     "last_updated": now.isoformat(), 
-                    "count": len(movies_for_stremio) 
+                    "count": (len(movies_for_stremio) + count)
                 }, file, indent=4) 
             print(f"Caché actualizada con {len(movies_for_stremio)} películas con IMDB IDs.")
         except IOError as e:
