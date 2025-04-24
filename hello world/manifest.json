@@ -1,0 +1,12 @@
+{
+    "id": "my.first.stremio.add-on",
+    "version": "1.0.0",
+    "name": "Hello, World",
+    "description" : "My first Stremio add-on",
+    "logo": "https://www.stremio.com/website/stremio-logo-small.png",
+    "resources": ["catalog"],
+    "types": ["movie"],
+    "catalogs": [
+        {"id": "movieCatalog", "type": "movie", "name": "Hello, Movies"}
+    ]
+}

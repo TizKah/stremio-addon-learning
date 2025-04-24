@@ -1,0 +1,17 @@
+{
+    "id": "org.mystremio.testaddon",
+    "version": "1.0.0",
+    "name": "Test Addon",
+    "description": "My first Stremio add-on!",
+    "resources": ["catalog", "stream", "meta"],
+    "types": ["movie"],
+    "catalogs": [
+      {
+        "type": "movie",
+        "id": "testcatalog",
+        "name": "Test Catalog"
+      }
+    ],
+    "idPrefixes": ["tt"]
+  }
+  
