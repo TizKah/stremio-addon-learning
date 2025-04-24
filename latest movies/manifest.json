@@ -1,15 +1,15 @@
 {
-    "id": "app.stremio.latestbycountry",
+    "id": "app.stremio.popular",
     "version": "1.0.0",
-    "name": "Latest by Country",
-    "description": "Shows latest movies filtered by country",
+    "name": "Popular movies",
+    "description": "Shows popular movies",
     "resources": ["catalog"],
     "types": ["movie"],
     "catalogs": [
       {
-        "id": "latest-by-country",
+        "id": "popular_movies",
         "type": "movie",
-        "name": "Latest Movies by Country"
+        "name": "Popular movies"
       }
     ],
     "idPrefixes": ["tt"]
