@@ -52,7 +52,7 @@ def catalog(skip):
         return prev_cache["cache"]
     
     print("Fetcheando datos nuevos de TMDB Discover API...")
-    all_tmdb_movies_results = get_movies(prev_cache, now)
+    all_tmdb_movies_results = get_movies(skip, now)
     imdb_id_mapping = get_imdb_ids(all_tmdb_movies_results)
     movies_for_stremio = parse_movies_for_stremio(all_tmdb_movies_results ,imdb_id_mapping)
     save_cache(movies_for_stremio, now)
@@ -134,12 +134,9 @@ def cache_manage(skip, now):
         print(f"Archivo de caché {CACHE_FILE} no encontrado.")
     return None
 
-def get_movies(prev_cache, now):
+def get_movies(skip, now):
     all_tmdb_movies_results = []
-    if prev_cache:
-        start_page = prev_cache["count"] // ITEMS_PER_PAGE
-    else:
-        start_page = 0
+    start_page = skip // ITEMS_PER_PAGE
         
     for page in range(start_page + 1, start_page + PAGES_TO_FETCH_INCREMENTALLY + 1):
         url = "https://api.themoviedb.org/3/discover/movie"
