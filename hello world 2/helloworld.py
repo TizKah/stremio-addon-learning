@@ -11,8 +11,9 @@ def manifest():
 
 
 @app.route("/catalog/movie/movieCatalog.json")
-def manifest():
-    return send_file("manifest.json")
+def movieCatalog():
+    return send_file("catalog/movie/movieCatalog.json")
 
 if __name__ == "__main__":
+    print("http://127.0.0.1:7000/manifest.json")
     app.run(host="0.0.0.0", port=7000)

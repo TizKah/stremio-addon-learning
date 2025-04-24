@@ -1,0 +1,17 @@
+{
+    "id": "app.stremio.latestbycountry",
+    "version": "1.0.0",
+    "name": "Latest by Country",
+    "description": "Shows latest movies filtered by country",
+    "resources": ["catalog"],
+    "types": ["movie"],
+    "catalogs": [
+      {
+        "id": "latest-by-country",
+        "type": "movie",
+        "name": "Latest Movies by Country"
+      }
+    ],
+    "idPrefixes": ["tt"]
+  }
+  
