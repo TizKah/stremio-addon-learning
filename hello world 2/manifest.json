@@ -1,17 +1,12 @@
 {
-    "id": "org.mystremio.testaddon",
+    "id": "my.first.stremio.add-on",
     "version": "1.0.0",
-    "name": "Test Addon",
-    "description": "My first Stremio add-on!",
-    "resources": ["catalog", "stream", "meta"],
+    "name": "Hello, World",
+    "description" : "My first Stremio add-on",
+    "logo": "https://www.stremio.com/website/stremio-logo-small.png",
+    "resources": ["catalog"],
     "types": ["movie"],
     "catalogs": [
-      {
-        "type": "movie",
-        "id": "testcatalog",
-        "name": "Test Catalog"
-      }
-    ],
-    "idPrefixes": ["tt"]
-  }
-  
+        {"id": "movieCatalog", "type": "movie", "name": "Hello, Movies"}
+    ]
+}
