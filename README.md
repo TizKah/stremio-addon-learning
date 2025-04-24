@@ -1,1 +1,1 @@
-"# stremio-addon-learning" 
+# stremio-addon-learning
