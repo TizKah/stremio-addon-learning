@@ -1,0 +1,1410 @@
+{
+    "movies": [
+        {
+            "id": "tt9150192",
+            "type": "movie",
+            "name": "A Working Man",
+            "poster": "https://image.tmdb.org/t/p/w500/xUkUZ8eOnrOnnJAfusZUqKYZiDu.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+            "description": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+            "year": 2025
+        },
+        {
+            "id": "tt3566834",
+            "type": "movie",
+            "name": "A Minecraft Movie",
+            "poster": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+            "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+            "year": 2025
+        },
+        {
+            "id": "tt4419684",
+            "type": "movie",
+            "name": "In the Lost Lands",
+            "poster": "https://image.tmdb.org/t/p/w500/t6HJH3gXtUqVinyFKWi7Bjh73TM.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+            "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
+            "year": 2025
+        },
+        {
+            "id": "tt14513804",
+            "type": "movie",
+            "name": "Captain America: Brave New World",
+            "poster": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/jhL4eTpccoZSVehhcR8DKLSBHZy.jpg",
+            "description": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+            "year": 2025
+        },
+        {
+            "id": "tt16916320",
+            "type": "movie",
+            "name": "The Siege",
+            "poster": "https://image.tmdb.org/t/p/w500/hVh4hMzkXNLnScudbid6hDvjMPk.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/4eC0tsU9OxR3Adlo1yRJYUDraW9.jpg",
+            "description": "International assassin Walker is compromised during a mission and sent to a reassignment center for a new identity. During his stay at the facility, a ruthless assault team storms the compound searching for someone their boss has lost. Walker begrudgingly falls in with skilled hitwoman Elda and her mysterious ward Juliet in order to survive the night.",
+            "year": 2023
+        },
+        {
+            "id": "tt23476986",
+            "type": "movie",
+            "name": "G20",
+            "poster": "https://image.tmdb.org/t/p/w500/wv6oWAleCJZUk5htrGg413t3GCy.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/k32XKMjmXMGeydykD32jfER3BVI.jpg",
+            "description": "After the G20 Summit is overtaken by terrorists, President Danielle Sutton must bring all her statecraft and military experience to defend her family and her fellow leaders.",
+            "year": 2025
+        },
+        {
+            "id": "tt29603959",
+            "type": "movie",
+            "name": "Novocaine",
+            "poster": "https://image.tmdb.org/t/p/w500/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/sNx1A3822kEbqeUxvo5A08o4N7o.jpg",
+            "description": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+            "year": 2025
+        },
+        {
+            "id": "tt31193180",
+            "type": "movie",
+            "name": "Sinners",
+            "poster": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+            "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+            "year": 2025
+        },
+        {
+            "id": "tt24850708",
+            "type": "movie",
+            "name": "Gunslingers",
+            "poster": "https://image.tmdb.org/t/p/w500/O7REXWPANWXvX2jhQydHjAq2DV.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/zksO4lVnRKRoaSYzh2EDn2Z3Pel.jpg",
+            "description": "When the most wanted man in America surfaces in a small Kentucky town, his violent history -- and a blood-thirsty mob seeking vengeance and a king\u2019s ransom -- soon follow. As brothers face off against one another and bullets tear the town to shreds, this lightning-fast gunslinger makes his enemies pay the ultimate price for their greed.",
+            "year": 2025
+        },
+        {
+            "id": "tt31314296",
+            "type": "movie",
+            "name": "The Woman in the Yard",
+            "poster": "https://image.tmdb.org/t/p/w500/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/3lEV4CoKoeT2cZ4fbKEJugZcw6Z.jpg",
+            "description": "In the aftermath of her husband's death, widow Ramona's struggle to raise her two kids is hindered by the arrival of a mysterious woman with supernatural abilities.",
+            "year": 2025
+        },
+        {
+            "id": "tt20215234",
+            "type": "movie",
+            "name": "Conclave",
+            "poster": "https://image.tmdb.org/t/p/w500/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
+            "description": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+            "year": 2024
+        },
+        {
+            "id": "tt13622970",
+            "type": "movie",
+            "name": "Moana 2",
+            "poster": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+            "description": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+            "year": 2024
+        },
+        {
+            "id": "tt33452974",
+            "type": "movie",
+            "name": "Bullet Train Explosion",
+            "poster": "https://image.tmdb.org/t/p/w500/s5iU9u4tg441Zx5Ya4Jx16csEd7.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/Zes06xI18u47pblwRGTtqRm0R8.jpg",
+            "description": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
+            "year": 2025
+        },
+        {
+            "id": "tt13186482",
+            "type": "movie",
+            "name": "Mufasa: The Lion King",
+            "poster": "https://image.tmdb.org/t/p/w500/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+            "description": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+            "year": 2024
+        },
+        {
+            "id": "tt18259086",
+            "type": "movie",
+            "name": "Sonic the Hedgehog 3",
+            "poster": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+            "description": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+            "year": 2024
+        },
+        {
+            "id": "tt0335345",
+            "type": "movie",
+            "name": "The Passion of the Christ",
+            "poster": "https://image.tmdb.org/t/p/w500/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/pulJ1iY7GVeppMRipiR7ZGDW7EW.jpg",
+            "description": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+            "year": 2004
+        },
+        {
+            "id": "tt29425792",
+            "type": "movie",
+            "name": "Home Sweet Home: Rebirth",
+            "poster": "https://image.tmdb.org/t/p/w500/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/wmqpE7p2dUCEgCnovuovoNXaCXr.jpg",
+            "description": "When a city is overrun with a demonically-possessed crowd, a cop must find the source of evil to save his family.",
+            "year": 2025
+        },
+        {
+            "id": "tt27705545",
+            "type": "movie",
+            "name": "A Knight's War",
+            "poster": "https://image.tmdb.org/t/p/w500/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/cJCW78MZsyyXBKHo4V25WctK00V.jpg",
+            "description": "A fearless knight braves a deadly realm to save the Chosen One\u2019s soul. Facing witches, demons, and brutal foes, he discovers her return could ignite chaos and doom humanity.",
+            "year": 2025
+        },
+        {
+            "id": "tt27812086",
+            "type": "movie",
+            "name": "Cleaner",
+            "poster": "https://image.tmdb.org/t/p/w500/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/gsQJOfeW45KLiQeEIsom94QPQwb.jpg",
+            "description": "When a group of radical activists take over an energy company's annual gala, seizing 300 hostages, an ex-soldier turned window cleaner suspended 50 storeys up on the outside of the building must save those trapped inside, including her younger brother.",
+            "year": 2025
+        },
+        {
+            "id": "tt32044730",
+            "type": "movie",
+            "name": "The Codes of War",
+            "poster": "https://image.tmdb.org/t/p/w500/oXeiQAfRK90pxxhP5iKPXQqAIN1.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/ibF5XVxTzf1ayzZrmiJqgeQ39Qk.jpg",
+            "description": "War stories about family, ethics and honor include the true story of two U.S. Marines who in a span of six seconds, must stand their ground to stop a suicide truck bomb, a Navy Corpsman who attempts to hold on to his humanity, and a WW2 soldier who gets separated from his squad and is forced to re-evaluate his code.",
+            "year": 2025
+        },
+        {
+            "id": "tt32831759",
+            "type": "movie",
+            "name": "Laila",
+            "poster": "https://image.tmdb.org/t/p/w500/l4gsNxFPGpzbq0D6QK1a8vO1lBz.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/vNUwK5P42m81uG57kKI1WxSZwIQ.jpg",
+            "description": "Sonu Model, a renowned beautician from the old city, is forced to disguise himself as Laila, leading to a series of comedic, romantic, and action-packed events. Chaos ensues in this hilarious laugh riot",
+            "year": 2025
+        },
+        {
+            "id": "tt12299608",
+            "type": "movie",
+            "name": "Mickey 17",
+            "poster": "https://image.tmdb.org/t/p/w500/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/hNA73rnG4PjSwgojaC2gbO1f8Rt.jpg",
+            "description": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
+            "year": 2025
+        },
+        {
+            "id": "tt35683795",
+            "type": "movie",
+            "name": "Carjackers",
+            "poster": "https://image.tmdb.org/t/p/w500/wbkPMTz2vVai7Ujyp0ag7AM9SrO.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/is9bmV6uYXu7LjZGJczxrjJDlv8.jpg",
+            "description": "By day, they're invisible\u2014valets, hostesses, and bartenders at a luxury hotel. By night, they're the Carjackers, a crew of skilled drivers who track and rob wealthy clients on the road. As they plan their ultimate heist, the hotel director hires a ruthless hitman, to stop them at all costs. With danger closing in, can Nora, Zoe, Steve, and Prestance pull off their biggest score yet?",
+            "year": 2025
+        },
+        {
+            "id": "tt31723358",
+            "type": "movie",
+            "name": "Ask Me What You Want",
+            "poster": "https://image.tmdb.org/t/p/w500/k82T5L1utX1G2LhNWeza9nGUKPk.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/qiVrapzgrDO7c6yQTSvn0dhwsn8.jpg",
+            "description": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+            "year": 2024
+        },
+        {
+            "id": "tt20419974",
+            "type": "movie",
+            "name": "The Hard Hit",
+            "poster": "https://image.tmdb.org/t/p/w500/whkFbOZTamHeugEG95jvQehSzAH.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/fzv87rT0jlAkh5Uf9PpIlUj6Nj8.jpg",
+            "description": "An Interpol agent hunting the head of a global crime syndicate tracks his target to Las Vegas, but when the criminal organization kills his wife and daughter, he goes above the law to get his revenge.",
+            "year": 2023
+        },
+        {
+            "id": "tt31181421",
+            "type": "movie",
+            "name": "iHostage",
+            "poster": "https://image.tmdb.org/t/p/w500/h87bgIhs4keL005Ch5aeKhnaAIL.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
+            "description": "When a gunman enters an Apple Store in the heart of Amsterdam, the police face a delicate challenge to resolve the standoff.",
+            "year": 2025
+        },
+        {
+            "id": "tt10078772",
+            "type": "movie",
+            "name": "Flight Risk",
+            "poster": "https://image.tmdb.org/t/p/w500/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg",
+            "description": "A U.S. Marshal escorts a government witness to trial after he's accused of getting involved with a mob boss, only to discover that the pilot who is transporting them is also a hitman sent to assassinate the informant. After they subdue him, they're forced to fly together after discovering that there are others attempting to eliminate them.",
+            "year": 2025
+        },
+        {
+            "id": "tt27165670",
+            "type": "movie",
+            "name": "Sugar Baby",
+            "poster": "https://image.tmdb.org/t/p/w500/z7NyxmdJ1ypn3Y6BVizjGODuBdO.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/kYqEsUtilXXcb7FDfGIUaDq7j5F.jpg",
+            "description": "An enterprising Sugar Baby is offered $30,000 to move in with her Sugar Daddy for the week, but soon discovers the sinister secrets trapped within his home.",
+            "year": 2024
+        },
+        {
+            "id": "tt27852049",
+            "type": "movie",
+            "name": "Deva",
+            "poster": "https://image.tmdb.org/t/p/w500/qxtXzAlEPxmjHILU8k8wduvBSdo.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg",
+            "description": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+            "year": 2025
+        },
+        {
+            "id": "tt13654226",
+            "type": "movie",
+            "name": "The Gorge",
+            "poster": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+            "description": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+            "year": 2025
+        },
+        {
+            "id": "tt26671996",
+            "type": "movie",
+            "name": "Locked",
+            "poster": "https://image.tmdb.org/t/p/w500/hhkiqXpfpufwxVrdSftzeKIANl3.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/ewDxmREWXzgdi7IPndTvqEpTglF.jpg",
+            "description": "When Eddie breaks into a luxury SUV, he steps into a deadly trap set by William, a self-proclaimed vigilante delivering his own brand of twisted justice. With no means of escape, Eddie must fight to survive in a ride where escape is an illusion, survival is a nightmare, and justice shifts into high gear.",
+            "year": 2025
+        },
+        {
+            "id": "tt27949946",
+            "type": "movie",
+            "name": "Cosmic Chaos",
+            "poster": "https://image.tmdb.org/t/p/w500/mClzWv7gBqgXfjZXp49Enyoex1v.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/m2mzlsJjE3UAqeUB5fLUkpWg4Iq.jpg",
+            "description": "Battles in virtual reality, survival in a post-apocalyptic wasteland, a Soviet spaceship giving a distress signal - Fantastic stories created with advanced special effects and passion.",
+            "year": 2023
+        },
+        {
+            "id": "tt32508210",
+            "type": "movie",
+            "name": "Batman Ninja vs. Yakuza League",
+            "poster": "https://image.tmdb.org/t/p/w500/sVVT6GYFErVv0Lcc9NvqCu0iOxO.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/e807jDKiFcntZS32ze88X6I96OD.jpg",
+            "description": "The Batman family has returned to the present to discover that Japan has disappeared, and a giant island - Hinomoto - is now in the sky over Gotham City.  At the top sit the Yakuza, a group of superpowered individuals who reign without honor or humanity and look suspiciously like the Justice League. Now, it\u2019s up to Batman and his allies to save Gotham!",
+            "year": 2025
+        },
+        {
+            "id": "tt4154756",
+            "type": "movie",
+            "name": "Avengers: Infinity War",
+            "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+            "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "year": 2018
+        },
+        {
+            "id": "tt23648788",
+            "type": "movie",
+            "name": "Counterattack",
+            "poster": "https://image.tmdb.org/t/p/w500/38I76hGcFY6xB47pjm7pZwkfuAF.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+            "description": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
+            "year": 2025
+        },
+        {
+            "id": "tt29372176",
+            "type": "movie",
+            "name": "Easter Bloody Easter",
+            "poster": "https://image.tmdb.org/t/p/w500/8tGYZlPttiOjEe61GvszRcrnpEi.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/lljZTHeXJ3mNt3IC5Kh7MPXVKeZ.jpg",
+            "description": "A woman must protect her small town from the Jackalope (based on the mythical rabbit-antelope creature of North American folklore) and his army of devilish bunnies as they embark on a murder spree over the Easter weekend.",
+            "year": 2024
+        },
+        {
+            "id": "tt21955520",
+            "type": "movie",
+            "name": "Peter Pan's Neverland Nightmare",
+            "poster": "https://image.tmdb.org/t/p/w500/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg",
+            "description": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+            "year": 2025
+        },
+        {
+            "id": "tt17489650",
+            "type": "movie",
+            "name": "Ash",
+            "poster": "https://image.tmdb.org/t/p/w500/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/9KSGUPHZpqhqkRXE2eebu701ONU.jpg",
+            "description": "A woman wakes up on a distant planet and finds the crew of her space station viciously killed. Her investigation into what happened sets in motion a terrifying chain of events.",
+            "year": 2025
+        },
+        {
+            "id": "tt32887283",
+            "type": "movie",
+            "name": "The Quiet Ones",
+            "poster": "https://image.tmdb.org/t/p/w500/7NLY1jNwtZX1yVzwVoBeAhaBE8i.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/9OO6I25MHhCDd0XwNk4oZl0fpwB.jpg",
+            "description": "In 2008, a group of men from Denmark and across Europe pull off the biggest heist of all time on Danish soil. Kasper, a boxer with few chances left in life, is offered the opportunity to plan the robbery by its foreign initiators.",
+            "year": 2024
+        },
+        {
+            "id": "tt6208148",
+            "type": "movie",
+            "name": "Snow White",
+            "poster": "https://image.tmdb.org/t/p/w500/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/xb9wpY31SeVZbfkevYuolhfV63w.jpg",
+            "description": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom in the process.",
+            "year": 2025
+        },
+        {
+            "id": "tt5402714",
+            "type": "movie",
+            "name": "Here After",
+            "poster": "https://image.tmdb.org/t/p/w500/by3EEDIVTdhNJolYK2Msn1RHRFH.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/gJduZE3cAmLVQknEfiR5t0vT4Ie.jpg",
+            "description": "When her teen daughter displays increasingly disturbing behavior after a near death experience, a mother becomes convinced the girl brought something evil back from the other side.",
+            "year": 2024
+        },
+        {
+            "id": "tt13657394",
+            "type": "movie",
+            "name": "Night Shift",
+            "poster": "https://image.tmdb.org/t/p/w500/iSSx9Bys64vlOkvkyKXtp19P7Re.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/o5vasl0xbZWWKQnAlaBTSgntHH2.jpg",
+            "description": "A young nurse with a domestic abuse past starts working the night shift at a small hospital, where, during the night, the ghost of a nurse materializes.",
+            "year": 2024
+        },
+        {
+            "id": "tt0899043",
+            "type": "movie",
+            "name": "The Amateur",
+            "poster": "https://image.tmdb.org/t/p/w500/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/yMoEGh8kDEwqsoJumnQLwFJ9V6h.jpg",
+            "description": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+            "year": 2025
+        },
+        {
+            "id": "tt9218128",
+            "type": "movie",
+            "name": "Gladiator II",
+            "poster": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+            "description": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+            "year": 2024
+        },
+        {
+            "id": "tt21909764",
+            "type": "movie",
+            "name": "My Fault",
+            "poster": "https://image.tmdb.org/t/p/w500/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+            "description": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+            "year": 2023
+        },
+        {
+            "id": "tt0110912",
+            "type": "movie",
+            "name": "Pulp Fiction",
+            "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+            "description": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+            "year": 1994
+        },
+        {
+            "id": "tt13652286",
+            "type": "movie",
+            "name": "Fight or Flight",
+            "poster": "https://image.tmdb.org/t/p/w500/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/6J259Zuq09Bt2PLUNeTS5a3DwLZ.jpg",
+            "description": "A mercenary takes on the job of tracking down a target on a plane but must protect her when they're surrounded by people trying to kill both of them.",
+            "year": 2025
+        },
+        {
+            "id": "tt28007064",
+            "type": "movie",
+            "name": "Superboys of Malegaon",
+            "poster": "https://image.tmdb.org/t/p/w500/l5PDjfWpC9uY5HdF5cbsJ4wjqoq.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/olExC8areYxKPu3pmKWRsgPz0Et.jpg",
+            "description": "The residents of Malegaon look to Bollywood cinema for a much-needed escape from daily drudgery. Amateur filmmaker Nasir Shaikh gets inspired to make a film for the people of Malegaon, by the people of Malegaon. He bands together his ragtag group of friends to bring his vision to life, thereby bringing a fresh lease of life into the town.",
+            "year": 2025
+        },
+        {
+            "id": "tt16366836",
+            "type": "movie",
+            "name": "Venom: The Last Dance",
+            "poster": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+            "description": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+            "year": 2024
+        },
+        {
+            "id": "tt6263850",
+            "type": "movie",
+            "name": "Deadpool & Wolverine",
+            "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+            "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+            "year": 2024
+        },
+        {
+            "id": "tt29666664",
+            "type": "movie",
+            "name": "Bloody Escape: Bats out of Hell",
+            "poster": "https://image.tmdb.org/t/p/w500/lWKtVX5oEgcLbMYMaWiyes6c4IB.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/rKTRky21Sk5jpfMBUeHYamqshkt.jpg",
+            "description": "After being turned into a cyborg, Kisaragi faces pursuit from vampires and vengeful yakuza.",
+            "year": 2024
+        },
+        {
+            "id": "tt23770030",
+            "type": "movie",
+            "name": "Memoir of a Snail",
+            "poster": "https://image.tmdb.org/t/p/w500/57AgZv1ITeBLShiNdchZ5153evs.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+            "description": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+            "year": 2024
+        },
+        {
+            "id": "tt15173952",
+            "type": "movie",
+            "name": "825 Forest Road",
+            "poster": "https://image.tmdb.org/t/p/w500/ohESp5Nw49OD4ExCeNYCEIGX2iq.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/jiKwojRdwMYsDEMxQp5NFS3sOKb.jpg",
+            "description": "After a family tragedy, Chuck Wilson hopes to start a new life in Ashland Falls with his wife Maria and little sister Elizabeth, but he quickly discovers that the town has a dark history of being haunted by a ghostly woman who drives residents to suicide.",
+            "year": 2025
+        },
+        {
+            "id": "tt7510222",
+            "type": "movie",
+            "name": "Despicable Me 4",
+            "poster": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+            "description": "Gru and Lucy and their girls\u2014Margo, Edith and Agnes\u2014welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+            "year": 2024
+        },
+        {
+            "id": "tt8790086",
+            "type": "movie",
+            "name": "Kraven the Hunter",
+            "poster": "https://image.tmdb.org/t/p/w500/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+            "description": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+            "year": 2024
+        },
+        {
+            "id": "tt7068946",
+            "type": "movie",
+            "name": "The Accountant 2",
+            "poster": "https://image.tmdb.org/t/p/w500/4rxr2grcBfxwH4penSxndcPwyDp.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/281Bs2ClHPblbjjlmNLH6bcW5op.jpg",
+            "description": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Treasury Agent Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+            "year": 2025
+        },
+        {
+            "id": "tt35111035",
+            "type": "movie",
+            "name": "Demon City",
+            "poster": "https://image.tmdb.org/t/p/w500/g5PqsFFrayyRL1Ldgib2lMYuJXg.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/hD2SN5bbqxk0kcRmsATJkXObgnZ.jpg",
+            "description": "Framed for his family's murder and left for dead, an ex-hitman will stop at nothing to exact revenge on the masked \"demons\" who have taken over his city.",
+            "year": 2025
+        },
+        {
+            "id": "tt31434639",
+            "type": "movie",
+            "name": "Warfare",
+            "poster": "https://image.tmdb.org/t/p/w500/oXsDTDt1MqxJreROd2cbd2FMOZ2.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+            "description": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+            "year": 2025
+        },
+        {
+            "id": "tt27118357",
+            "type": "movie",
+            "name": "Amaran",
+            "poster": "https://image.tmdb.org/t/p/w500/eCB06m1KUGilEOlIzb40nkQhVY0.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg",
+            "description": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir\u2019s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
+            "year": 2024
+        },
+        {
+            "id": "tt0060196",
+            "type": "movie",
+            "name": "The Good, the Bad and the Ugly",
+            "poster": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+            "description": "While the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+            "year": 1966
+        },
+        {
+            "id": "tt33372007",
+            "type": "movie",
+            "name": "Una peque\u00f1a confusi\u00f3n",
+            "poster": "https://image.tmdb.org/t/p/w500/ApXr9phfcvIX06tLGhxOH2kmndb.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/8U1xsLUtWSN8WlH0xzwYGZxHMUi.jpg",
+            "description": "Lola and Cuau, a progressive middle-class pair, and I\u00f1igo and Majo, a young conservative, well-heeled duo, turn to artificial insemination as a last resort to have children. In a madcap twist based on actual events, a mix-up at the clinic results in each mom-to-be carrying the other one's baby.",
+            "year": 2024
+        },
+        {
+            "id": "tt4772188",
+            "type": "movie",
+            "name": "Flow",
+            "poster": "https://image.tmdb.org/t/p/w500/imKSymKBK7o73sajciEmndJoVkR.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+            "description": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+            "year": 2024
+        },
+        {
+            "id": "tt32560777",
+            "type": "movie",
+            "name": "Plankton: The Movie",
+            "poster": "https://image.tmdb.org/t/p/w500/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
+            "description": "Plankton's tangled love story with his sentient computer wife goes sideways when she takes a stand \u2014 and decides to destroy the world without him.",
+            "year": 2025
+        },
+        {
+            "id": "tt26584495",
+            "type": "movie",
+            "name": "Companion",
+            "poster": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+            "description": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+            "year": 2025
+        },
+        {
+            "id": "tt30956852",
+            "type": "movie",
+            "name": "Popeye the Slayer Man",
+            "poster": "https://image.tmdb.org/t/p/w500/nVwu3mN7hr1yF467pGct3yQFM41.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/xkjWiRQtrenqGRWO2Enry2JIl4d.jpg",
+            "description": "A curious group of friends sneak into an abandoned spinach canning factory to film a documentary on the legend of the \"Sailor Man,\" who is said to haunt the factory and local docks.",
+            "year": 2025
+        },
+        {
+            "id": "tt32558992",
+            "type": "movie",
+            "name": "Heart Eyes",
+            "poster": "https://image.tmdb.org/t/p/w500/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg",
+            "description": "When the \"Heart Eyes Killer\" strikes Seattle, a pair of co-workers pulling overtime on Valentine's Day are mistaken for a couple by the elusive couple-hunting killer. Now, they must spend the most romantic night of the year running for their lives.",
+            "year": 2025
+        },
+        {
+            "id": "tt2250912",
+            "type": "movie",
+            "name": "Spider-Man: Homecoming",
+            "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+            "description": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+            "year": 2017
+        },
+        {
+            "id": "tt29623480",
+            "type": "movie",
+            "name": "The Wild Robot",
+            "poster": "https://image.tmdb.org/t/p/w500/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+            "description": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "year": 2024
+        },
+        {
+            "id": "tt28510079",
+            "type": "movie",
+            "name": "Your Fault",
+            "poster": "https://image.tmdb.org/t/p/w500/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+            "description": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+            "year": 2024
+        },
+        {
+            "id": "tt17526714",
+            "type": "movie",
+            "name": "The Substance",
+            "poster": "https://image.tmdb.org/t/p/w500/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/pRjCDn51n9otE0AzpGRYGVWP1LB.jpg",
+            "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "year": 2024
+        },
+        {
+            "id": "tt6318608",
+            "type": "movie",
+            "name": "Nightwatch: Demons Are Forever",
+            "poster": "https://image.tmdb.org/t/p/w500/7Bj9qbmTiBdOmVlHeQqoEjsDxul.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/opNdWurarqYxrzqpVRPyZrbWb3K.jpg",
+            "description": "Martin's daughter, Emma, takes up a night watch job to find out what happened to her parents almost thirty years ago. A meeting with W\u00f6rmer in his cell pulls the serial killer out of his coma and sets in motion a chain of fateful events.",
+            "year": 2023
+        },
+        {
+            "id": "tt26733463",
+            "type": "movie",
+            "name": "Vera and the Pleasure of Others",
+            "poster": "https://image.tmdb.org/t/p/w500/e0ESGyso9K95glbbnTRenFfCC7l.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
+            "description": "17-year-old Vera divides her days between volleyball and school and has a good time with friends like an average teenager. She appears to be a perfect daughter who never gets into trouble. But she has a secret hobby: she anonymously rents out an empty apartment to teenagers looking for a place to have sex. She steals the keys from her distracted mother (who manages different properties) and organizes everything. The teenagers come and go, using the apartment for a few uninterrupted hours making Vera the saviour of all their needs. With that she unlocks a new world for herself \u2013 playing invisible, Vera stays behind the closed door; her own sexual desires unfolding as she listens to other people\u2019s pleasure.",
+            "year": 2024
+        },
+        {
+            "id": "tt2975590",
+            "type": "movie",
+            "name": "Batman v Superman: Dawn of Justice",
+            "poster": "https://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+            "description": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City\u2019s own formidable, forceful vigilante takes on Metropolis\u2019s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it\u2019s ever known before.",
+            "year": 2016
+        },
+        {
+            "id": "tt6105098",
+            "type": "movie",
+            "name": "The Lion King",
+            "poster": "https://image.tmdb.org/t/p/w500/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+            "description": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother\u2014and former heir to the throne\u2014has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
+            "year": 2019
+        },
+        {
+            "id": "tt28630624",
+            "type": "movie",
+            "name": "Panda Plan",
+            "poster": "https://image.tmdb.org/t/p/w500/hbO8MVrDuT8YxqeJD6DMxcamY9N.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/dXoBFj9Yl9HDRcDVQubkuVCh26N.jpg",
+            "description": "International action star Jackie Chan is invited to the adoption ceremony of a rare baby panda, but after an international crime syndicate attempts to kidnap the bear, Jackie has to save the bear using his stunt work skills.",
+            "year": 2024
+        },
+        {
+            "id": "tt29341577",
+            "type": "movie",
+            "name": "Ghost Game",
+            "poster": "https://image.tmdb.org/t/p/w500/kxxWBEn7qTN2xumSferCHbDudcT.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/zvWnh0ABsJlco2tikliiATEKhLN.jpg",
+            "description": "As part of an internet challenge to live undetected in a stranger\u2019s home, a daring couple target an infamous haunted house and endure a series of chilling incidents as they witness a family descending into madness.",
+            "year": 2024
+        },
+        {
+            "id": "tt0099685",
+            "type": "movie",
+            "name": "GoodFellas",
+            "poster": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/7TF4p86ZafnxFuNqWdhpHXFO244.jpg",
+            "description": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+            "year": 1990
+        },
+        {
+            "id": "tt1856101",
+            "type": "movie",
+            "name": "Blade Runner 2049",
+            "poster": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/3bWUP9kyf9BxVc0hmZdqXB2w4UP.jpg",
+            "description": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+            "year": 2017
+        },
+        {
+            "id": "tt30287778",
+            "type": "movie",
+            "name": "I, the Executioner",
+            "poster": "https://image.tmdb.org/t/p/w500/gAtP0usArK5gVOBObnsENKLwML8.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/bA4Io3xv46oEyP4O51uU0EKbluF.jpg",
+            "description": "The veteran detective Seo Do-cheol and his team at Major Crimes, relentless in their pursuit of criminals, join forces with rookie cop Park Sun-woo to track down a serial killer who has plunged the nation into turmoil.",
+            "year": 2024
+        },
+        {
+            "id": "tt1825683",
+            "type": "movie",
+            "name": "Black Panther",
+            "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+            "description": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+            "year": 2018
+        },
+        {
+            "id": "tt22022452",
+            "type": "movie",
+            "name": "Inside Out 2",
+            "poster": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+            "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
+            "year": 2024
+        },
+        {
+            "id": "tt22489042",
+            "type": "movie",
+            "name": "Hellhound",
+            "poster": "https://image.tmdb.org/t/p/w500/h1BtcTEk0pbe9XhbxrAp2oLKoWb.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/mhKQ5ntqlXyck0TWh1pCpn42aAx.jpg",
+            "description": "Ready to leave his profession behind, Loreno, an assassin, lends help to an old friend, Cetan, and taking one last job in Thailand seeking out a local kingpin. A lapse in judgment means Loreno crosses paths with old colleague Paul.",
+            "year": 2024
+        },
+        {
+            "id": "tt2771200",
+            "type": "movie",
+            "name": "Beauty and the Beast",
+            "poster": "https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+            "description": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+            "year": 2017
+        },
+        {
+            "id": "tt26442053",
+            "type": "movie",
+            "name": "Old Guy",
+            "poster": "https://image.tmdb.org/t/p/w500/ulVVfNY8bmy1RbHfY4zi3fOwGzh.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/AtciHGgpOU7ngsVhXbS2S5Spdlv.jpg",
+            "description": "Stuck at a dead end but vying for the love of spunky club manager Anata, aging contract killer Danny Dolinski is thrilled when The Company pulls him back in the field, but only to train Gen Z newcomer Wihlborg, a prodigy assassin with an attitude.",
+            "year": 2024
+        },
+        {
+            "id": "tt30988739",
+            "type": "movie",
+            "name": "Black Bag",
+            "poster": "https://image.tmdb.org/t/p/w500/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/9ctmJLf3uUngYkwHbRttukm2n5l.jpg",
+            "description": "When intelligence agent Kathryn Woodhouse is suspected of betraying the nation, her husband \u2013 also a legendary agent \u2013 faces the ultimate test of whether to be loyal to his marriage, or his country.",
+            "year": 2025
+        },
+        {
+            "id": "tt0076759",
+            "type": "movie",
+            "name": "Star Wars",
+            "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+            "description": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+            "year": 1977
+        },
+        {
+            "id": "tt4154796",
+            "type": "movie",
+            "name": "Avengers: Endgame",
+            "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "year": 2019
+        },
+        {
+            "id": "tt10954718",
+            "type": "movie",
+            "name": "Dog Man",
+            "poster": "https://image.tmdb.org/t/p/w500/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/w1SjvuBifhtFwe3BSssXXFyV6bk.jpg",
+            "description": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve\u2014and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
+            "year": 2025
+        },
+        {
+            "id": "tt0295701",
+            "type": "movie",
+            "name": "xXx",
+            "poster": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+            "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+            "year": 2002
+        },
+        {
+            "id": "tt14948432",
+            "type": "movie",
+            "name": "Red One",
+            "poster": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+            "description": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+            "year": 2024
+        },
+        {
+            "id": "tt0816692",
+            "type": "movie",
+            "name": "Interstellar",
+            "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+            "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+            "year": 2014
+        },
+        {
+            "id": "tt29994753",
+            "type": "movie",
+            "name": "Oh, Canada",
+            "poster": "https://image.tmdb.org/t/p/w500/hKDR5AYXRTPb751oc7xK2Ay3PH0.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/50ZSvrvnnIHobB8h2henqbBXqKH.jpg",
+            "description": "Famed Canadian-American leftist documentary filmmaker Leonard Fife was one of sixty thousand draft evaders and deserters who fled to Canada to avoid serving in Vietnam. Now in his late seventies, Fife is dying of cancer in Montreal and has agreed to a final interview in which he is determined to bare all his secrets at last, to demythologize his mythologized life.",
+            "year": 2024
+        },
+        {
+            "id": "tt2527336",
+            "type": "movie",
+            "name": "Star Wars: The Last Jedi",
+            "poster": "https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+            "description": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+            "year": 2017
+        },
+        {
+            "id": "tt0120338",
+            "type": "movie",
+            "name": "Titanic",
+            "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/sCzcYW9h55WcesOqA12cgEr9Exw.jpg",
+            "description": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+            "year": 1997
+        },
+        {
+            "id": "tt30955489",
+            "type": "movie",
+            "name": "Until Dawn",
+            "poster": "https://image.tmdb.org/t/p/w500/6O9nkcmZBymDXtxOGJmulqcxJdv.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/n48dcVVxc3Mcq2l2Y3NTxLRJ7wJ.jpg",
+            "description": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one\u2026only to wake up and find themselves back at the beginning of the same evening.",
+            "year": 2025
+        },
+        {
+            "id": "tt31456973",
+            "type": "movie",
+            "name": "Alarum",
+            "poster": "https://image.tmdb.org/t/p/w500/v313aUGmMNj6yNveaiQXysBmjVS.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+            "description": "Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum.",
+            "year": 2025
+        },
+        {
+            "id": "tt3896198",
+            "type": "movie",
+            "name": "Guardians of the Galaxy Vol. 2",
+            "poster": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+            "description": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+            "year": 2017
+        },
+        {
+            "id": "tt28607951",
+            "type": "movie",
+            "name": "Anora",
+            "poster": "https://image.tmdb.org/t/p/w500/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/4YN6AfYIKyfZ1aB0cYEWROv76nU.jpg",
+            "description": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+            "year": 2024
+        },
+        {
+            "id": "tt27056066",
+            "type": "movie",
+            "name": "Sky Force",
+            "poster": "https://image.tmdb.org/t/p/w500/pmtev9YTlIRDo25G7lN8dzyoszn.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/pwfXx2O3eFXi5dtWCV5XJPQJgqN.jpg",
+            "description": "In the 1965 Indo-Pak War, India faces a devastating surprise attack. Wing Commander Ahuja leads a retaliatory strike, but Squadron Leader Vijaya goes missing after a heroic solo engagement against a superior enemy jet. Ahuja spends 23 years seeking the truth and uncovering a cover-up.",
+            "year": 2025
+        },
+        {
+            "id": "tt0088247",
+            "type": "movie",
+            "name": "The Terminator",
+            "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/ahUaAgnkFu7QlBh5h4LCNeaSurV.jpg",
+            "description": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+            "year": 1984
+        },
+        {
+            "id": "tt4881806",
+            "type": "movie",
+            "name": "Jurassic World: Fallen Kingdom",
+            "poster": "https://image.tmdb.org/t/p/w500/270MrJNqJovumHXGE6SSt0zwUIF.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
+            "description": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+            "year": 2018
+        },
+        {
+            "id": "tt1790864",
+            "type": "movie",
+            "name": "The Maze Runner",
+            "poster": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/vHJlbhsXrZ5yrO2KqCbGSIU6fRX.jpg",
+            "description": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow \u201crunners\u201d for a shot at escape.",
+            "year": 2014
+        },
+        {
+            "id": "tt32434379",
+            "type": "movie",
+            "name": "My Fault: London",
+            "poster": "https://image.tmdb.org/t/p/w500/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+            "description": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William\u2019s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+            "year": 2025
+        },
+        {
+            "id": "tt3501632",
+            "type": "movie",
+            "name": "Thor: Ragnarok",
+            "poster": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+            "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+            "year": 2017
+        },
+        {
+            "id": "tt0363771",
+            "type": "movie",
+            "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+            "description": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+            "year": 2005
+        },
+        {
+            "id": "tt3731562",
+            "type": "movie",
+            "name": "Kong: Skull Island",
+            "poster": "https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/jks6QgJjsaDC5iT6bxLsSS0eo6L.jpg",
+            "description": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
+            "year": 2017
+        },
+        {
+            "id": "tt2172954",
+            "type": "movie",
+            "name": "The Life List",
+            "poster": "https://image.tmdb.org/t/p/w500/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/4ybnt8HD4slaCykBXNZwZaLd5LQ.jpg",
+            "description": "When her mother sends her on a quest to complete a teenage bucket list, a young woman uncovers family secrets, finds romance \u2014 and rediscovers herself.",
+            "year": 2025
+        },
+        {
+            "id": "tt33428606",
+            "type": "movie",
+            "name": "Solo Leveling -ReAwakening-",
+            "poster": "https://image.tmdb.org/t/p/w500/dblIFen0bNZAq8icJXHwrjfymDW.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+            "description": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+            "year": 2024
+        },
+        {
+            "id": "tt0052618",
+            "type": "movie",
+            "name": "Ben-Hur",
+            "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/opC7CvwhOeBWZnhfcZkdtEskIQD.jpg",
+            "description": "In 25 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+            "year": 1959
+        },
+        {
+            "id": "tt0451279",
+            "type": "movie",
+            "name": "Wonder Woman",
+            "poster": "https://image.tmdb.org/t/p/w500/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/aPEhtVLrZRnJufKHwbHgqwirv7J.jpg",
+            "description": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+            "year": 2017
+        },
+        {
+            "id": "tt6565702",
+            "type": "movie",
+            "name": "Dark Phoenix",
+            "poster": "https://image.tmdb.org/t/p/w500/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+            "description": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
+            "year": 2019
+        },
+        {
+            "id": "tt0078748",
+            "type": "movie",
+            "name": "Alien",
+            "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
+            "description": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+            "year": 1979
+        },
+        {
+            "id": "tt3371366",
+            "type": "movie",
+            "name": "Transformers: The Last Knight",
+            "poster": "https://image.tmdb.org/t/p/w500/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
+            "description": "Humans and Transformers are at war. Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth. Saving our world falls upon the shoulders of an unlikely alliance: Cade Yeager; Bumblebee; an English Lord; and an Oxford Professor.",
+            "year": 2017
+        },
+        {
+            "id": "tt30840883",
+            "type": "movie",
+            "name": "Robotia, la pel\u00edcula",
+            "poster": "https://image.tmdb.org/t/p/w500/uRH4QEaa38Pz7xOiBJDaWp50s8g.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/bWKzdvrsrUoSt9btMESUipZ6SBf.jpg",
+            "description": "",
+            "year": 2024
+        },
+        {
+            "id": "tt0241527",
+            "type": "movie",
+            "name": "Harry Potter and the Philosopher's Stone",
+            "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+            "description": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
+            "year": 2001
+        },
+        {
+            "id": "tt2140479",
+            "type": "movie",
+            "name": "The Accountant",
+            "poster": "https://image.tmdb.org/t/p/w500/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+            "description": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+            "year": 2016
+        },
+        {
+            "id": "tt12996154",
+            "type": "movie",
+            "name": "365 Days: This Day",
+            "poster": "https://image.tmdb.org/t/p/w500/iLmG3HCXVyqXYbFvUO1rfOeGa3Z.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/y73agOAJDvO48WbvuRt4rZrcFw3.jpg",
+            "description": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo\u2019s family ties and a mysterious man who enters Laura\u2019s life to win her heart and trust, at any cost.",
+            "year": 2022
+        },
+        {
+            "id": "tt1630029",
+            "type": "movie",
+            "name": "Avatar: The Way of Water",
+            "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+            "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+            "year": 2022
+        },
+        {
+            "id": "tt13701202",
+            "type": "movie",
+            "name": "Miraculous World: London, At the Edge of Time",
+            "poster": "https://image.tmdb.org/t/p/w500/6AtoMpHvs9pxd30KsyK8QmJ9W9M.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/cBTwQKMd7Vn6rGTGBtoFLIfj7uM.jpg",
+            "description": "To save the future from a terrible fate, Marinette becomes Chronobug and teams up with Bunnyx to defeat a mysterious opponent who travels through time. Who is this new supervillain, and why are they obsessed with exposing Marinette's secret superhero identity? Marinette's only hope is to defeat her new opponent to prevent the end of Ladybug and time itself!",
+            "year": 2024
+        },
+        {
+            "id": "tt4881806",
+            "type": "movie",
+            "name": "Jurassic World: Fallen Kingdom",
+            "poster": "https://image.tmdb.org/t/p/w500/270MrJNqJovumHXGE6SSt0zwUIF.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
+            "description": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+            "year": 2018
+        },
+        {
+            "id": "tt1790864",
+            "type": "movie",
+            "name": "The Maze Runner",
+            "poster": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/vHJlbhsXrZ5yrO2KqCbGSIU6fRX.jpg",
+            "description": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow \u201crunners\u201d for a shot at escape.",
+            "year": 2014
+        },
+        {
+            "id": "tt32434379",
+            "type": "movie",
+            "name": "My Fault: London",
+            "poster": "https://image.tmdb.org/t/p/w500/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+            "description": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William\u2019s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+            "year": 2025
+        },
+        {
+            "id": "tt3501632",
+            "type": "movie",
+            "name": "Thor: Ragnarok",
+            "poster": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+            "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+            "year": 2017
+        },
+        {
+            "id": "tt0363771",
+            "type": "movie",
+            "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+            "description": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+            "year": 2005
+        },
+        {
+            "id": "tt3731562",
+            "type": "movie",
+            "name": "Kong: Skull Island",
+            "poster": "https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/jks6QgJjsaDC5iT6bxLsSS0eo6L.jpg",
+            "description": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
+            "year": 2017
+        },
+        {
+            "id": "tt2172954",
+            "type": "movie",
+            "name": "The Life List",
+            "poster": "https://image.tmdb.org/t/p/w500/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/4ybnt8HD4slaCykBXNZwZaLd5LQ.jpg",
+            "description": "When her mother sends her on a quest to complete a teenage bucket list, a young woman uncovers family secrets, finds romance \u2014 and rediscovers herself.",
+            "year": 2025
+        },
+        {
+            "id": "tt33428606",
+            "type": "movie",
+            "name": "Solo Leveling -ReAwakening-",
+            "poster": "https://image.tmdb.org/t/p/w500/dblIFen0bNZAq8icJXHwrjfymDW.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+            "description": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+            "year": 2024
+        },
+        {
+            "id": "tt0052618",
+            "type": "movie",
+            "name": "Ben-Hur",
+            "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/opC7CvwhOeBWZnhfcZkdtEskIQD.jpg",
+            "description": "In 25 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+            "year": 1959
+        },
+        {
+            "id": "tt0451279",
+            "type": "movie",
+            "name": "Wonder Woman",
+            "poster": "https://image.tmdb.org/t/p/w500/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/aPEhtVLrZRnJufKHwbHgqwirv7J.jpg",
+            "description": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+            "year": 2017
+        },
+        {
+            "id": "tt6565702",
+            "type": "movie",
+            "name": "Dark Phoenix",
+            "poster": "https://image.tmdb.org/t/p/w500/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+            "description": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
+            "year": 2019
+        },
+        {
+            "id": "tt0078748",
+            "type": "movie",
+            "name": "Alien",
+            "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
+            "description": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+            "year": 1979
+        },
+        {
+            "id": "tt3371366",
+            "type": "movie",
+            "name": "Transformers: The Last Knight",
+            "poster": "https://image.tmdb.org/t/p/w500/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
+            "description": "Humans and Transformers are at war. Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth. Saving our world falls upon the shoulders of an unlikely alliance: Cade Yeager; Bumblebee; an English Lord; and an Oxford Professor.",
+            "year": 2017
+        },
+        {
+            "id": "tt30840883",
+            "type": "movie",
+            "name": "Robotia, la pel\u00edcula",
+            "poster": "https://image.tmdb.org/t/p/w500/uRH4QEaa38Pz7xOiBJDaWp50s8g.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/bWKzdvrsrUoSt9btMESUipZ6SBf.jpg",
+            "description": "",
+            "year": 2024
+        },
+        {
+            "id": "tt0241527",
+            "type": "movie",
+            "name": "Harry Potter and the Philosopher's Stone",
+            "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+            "description": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
+            "year": 2001
+        },
+        {
+            "id": "tt2140479",
+            "type": "movie",
+            "name": "The Accountant",
+            "poster": "https://image.tmdb.org/t/p/w500/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+            "description": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+            "year": 2016
+        },
+        {
+            "id": "tt12996154",
+            "type": "movie",
+            "name": "365 Days: This Day",
+            "poster": "https://image.tmdb.org/t/p/w500/iLmG3HCXVyqXYbFvUO1rfOeGa3Z.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/y73agOAJDvO48WbvuRt4rZrcFw3.jpg",
+            "description": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo\u2019s family ties and a mysterious man who enters Laura\u2019s life to win her heart and trust, at any cost.",
+            "year": 2022
+        },
+        {
+            "id": "tt1630029",
+            "type": "movie",
+            "name": "Avatar: The Way of Water",
+            "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+            "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+            "year": 2022
+        },
+        {
+            "id": "tt13701202",
+            "type": "movie",
+            "name": "Miraculous World: London, At the Edge of Time",
+            "poster": "https://image.tmdb.org/t/p/w500/6AtoMpHvs9pxd30KsyK8QmJ9W9M.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/cBTwQKMd7Vn6rGTGBtoFLIfj7uM.jpg",
+            "description": "To save the future from a terrible fate, Marinette becomes Chronobug and teams up with Bunnyx to defeat a mysterious opponent who travels through time. Who is this new supervillain, and why are they obsessed with exposing Marinette's secret superhero identity? Marinette's only hope is to defeat her new opponent to prevent the end of Ladybug and time itself!",
+            "year": 2024
+        },
+        {
+            "id": "tt0108399",
+            "type": "movie",
+            "name": "True Romance",
+            "poster": "https://image.tmdb.org/t/p/w500/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/9lzBxaGXQ2Uy62caE1pzEnDko1h.jpg",
+            "description": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+            "year": 1993
+        },
+        {
+            "id": "tt36462222",
+            "type": "movie",
+            "name": "Titanic: The Digital Resurrection",
+            "poster": "https://image.tmdb.org/t/p/w500/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/tXJwsqVttZBTuuTI9iG2SilfOJT.jpg",
+            "description": "Using cutting-edge scanning technology and state-of-the-art CGI, a team of experts creates the first high-resolution 3D digital twin of the Titanic wreck. Through a groundbreaking immersive investigation, they uncover the ship\u2019s final moments, shedding light on the acts of heroism and cowardice aboard\u2014and revealing the true story behind the sinking of the \u201cunsinkable\u201d ship.",
+            "year": 2025
+        },
+        {
+            "id": "tt0848228",
+            "type": "movie",
+            "name": "The Avengers",
+            "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+            "description": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+            "year": 2012
+        },
+        {
+            "id": "tt7967302",
+            "type": "movie",
+            "name": "The King of Kings",
+            "poster": "https://image.tmdb.org/t/p/w500/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/gN0eu6s2qIzsHgznnsgMIfbPw3u.jpg",
+            "description": "Charles Dickens tells his young son Walter the greatest story ever told, and what begins as a bedtime tale becomes a life-changing journey. Through vivid imagination, the boy walks alongside Jesus, witnessing His miracles, facing His trials, and understanding His ultimate sacrifice.",
+            "year": 2025
+        },
+        {
+            "id": "tt28087226",
+            "type": "movie",
+            "name": "Cinderella's Revenge",
+            "poster": "https://image.tmdb.org/t/p/w500/cYB3SHhITJSbRoisgn9QQTP8YkZ.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/dx8wpD04sWu8g9oDi9j0Vi1ocqQ.jpg",
+            "description": "Cinderella finds freedom from her wicked stepmother with the help of her fairy godmother. Only this time, they unleash a plan of bloody vengeance.",
+            "year": 2024
+        },
+        {
+            "id": "tt27599851",
+            "type": "movie",
+            "name": "Apocalypse Z: The Beginning of the End",
+            "poster": "https://image.tmdb.org/t/p/w500/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg",
+            "description": "When a kind of rabies that transforms people into aggressive creatures spreads across the planet, Manel isolates himself at home with his cat, relying on his wits to survive; but soon they must go out in search of food, by land and by sea, dodging many dangers.",
+            "year": 2024
+        },
+        {
+            "id": "tt23648404",
+            "type": "movie",
+            "name": "Dark Match",
+            "poster": "https://image.tmdb.org/t/p/w500/6E6fBED3ix7FmrWUWZdeYG4vqK8.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/7q5RVohE85yuQ9uZWXEXlHmfUOE.jpg",
+            "description": "A small-time wrestling company accepts a well-paying gig in a backwoods town only to learn, too late, that the community is run by a mysterious cult leader with devious plans for their match.",
+            "year": 2024
+        },
+        {
+            "id": "tt32086032",
+            "type": "movie",
+            "name": "The Kingdom",
+            "poster": "https://image.tmdb.org/t/p/w500/6sR2P5P5SE8wZwMsfsLCO7J7Drp.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/hqNspYtGVGuLDO15JORh44H7VOV.jpg",
+            "description": "Teenage Lesia is taken by a man to a villa where her fugitive father and his men are hiding. A war erupts, leading to death and a chase where father and daughter bond.",
+            "year": 2024
+        },
+        {
+            "id": "tt32195076",
+            "type": "movie",
+            "name": "Z Zone",
+            "poster": "https://image.tmdb.org/t/p/w500/s6kFtdxfTC4xR8yDGbIjTgGEcFI.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/19pr5CzgsBYs67FAJvke8GQxN4g.jpg",
+            "description": "In a remote corner of the world, a group of troubled youths finds themselves whisked away to a mysterious military base after a series of misbehaviors. Expecting little more than a stern reprimand, they are instead thrust into a world of secrets and shadows.  In a desperate bid for freedom, they must unravel the mysteries of the base and confront the sinister forces that lurk in the shadows. But with time running out and danger lurking around every corner, the odds of survival grow slimmer by the minute.  Courage, strength, and sacrifice, would they finally escape the clutches of the base and emerge from the darkness into the light?",
+            "year": 2024
+        },
+        {
+            "id": "tt4919268",
+            "type": "movie",
+            "name": "Bad Boys: Ride or Die",
+            "poster": "https://image.tmdb.org/t/p/w500/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+            "description": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+            "year": 2024
+        },
+        {
+            "id": "tt20674132",
+            "type": "movie",
+            "name": "Birdeater",
+            "poster": "https://image.tmdb.org/t/p/w500/dCyLLAINVblprot2cn5OZf0G0PA.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/eMnhkSuFELWgzgyWjJwk6U0yRZB.jpg",
+            "description": "A bride-to-be is invited to her own fianc\u00e9's bachelor party, but when uncomfortable details about their relationship are exposed, the night takes a feral turn.",
+            "year": 2024
+        },
+        {
+            "id": "tt0120082",
+            "type": "movie",
+            "name": "Scream 2",
+            "poster": "https://image.tmdb.org/t/p/w500/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/rNqfOqFYpSCeSq2YC5pY8F80Yz4.jpg",
+            "description": "Two years after the first series of murders, as Sidney Prescott acclimates to college life, someone donning the Ghostface costume begins a new string of killings.",
+            "year": 1997
+        },
+        {
+            "id": "tt30788842",
+            "type": "movie",
+            "name": "Love Hurts",
+            "poster": "https://image.tmdb.org/t/p/w500/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+            "description": "A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully buried.",
+            "year": 2025
+        },
+        {
+            "id": "tt0108052",
+            "type": "movie",
+            "name": "Schindler's List",
+            "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+            "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "year": 1993
+        },
+        {
+            "id": "tt22175098",
+            "type": "movie",
+            "name": "Clawfoot",
+            "poster": "https://image.tmdb.org/t/p/w500/p2aM5FtUHmKp28AfiZCP6rkQJiw.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/nEo4uhFnZgSTQJEmO63NQXyHydD.jpg",
+            "description": "An upper-class suburban housewife is psychologically terrorized by a manipulative contractor remodeling her bathroom... until the tables are turned and a twisted battle of wits ensues with deliciously unexpected results.",
+            "year": 2024
+        },
+        {
+            "id": "tt8337290",
+            "type": "movie",
+            "name": "Absolution",
+            "poster": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+            "description": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn\u2019t done with him and won\u2019t loosen their grip willingly.",
+            "year": 2024
+        },
+        {
+            "id": "tt21815562",
+            "type": "movie",
+            "name": "The Alto Knights",
+            "poster": "https://image.tmdb.org/t/p/w500/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
+            "description": "Two of New York's most notorious organized crime bosses, Frank Costello and Vito Genovese, vie for control of the city's streets. Once the best of friends, petty jealousies and a series of betrayals place them on a deadly collision course that will reshape the Mafia (and America) forever.",
+            "year": 2025
+        },
+        {
+            "id": "tt0120689",
+            "type": "movie",
+            "name": "The Green Mile",
+            "poster": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+            "background": "https://image.tmdb.org/t/p/w780/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+            "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+            "year": 1999
+        }
+    ],
+    "last_updated": "2025-04-24T21:12:47.533468",
+    "count": 156
+}

@@ -1,0 +1,19 @@
+{
+    "id": "app.stremio.random",
+    "version": "1.0.0",
+    "name": "Random movie pick",
+    "description": "Shows one random movie",
+    "resources": ["catalog"],
+    "types": ["movie"],
+    "catalogs": [
+      {
+        "id": "random_movie",
+        "type": "movie",
+        "name": "Random movie",
+        "extra": [
+          { "name": "genre", "options": ["All", "Action", "Drama", "Sci-Fi"] }
+        ]
+      }
+    ]
+  }
+  
