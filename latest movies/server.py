@@ -18,7 +18,7 @@ TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 CACHE_FILE = "movie_data.json"
 CACHE_DURATION_HOURS = 24 
 ITEMS_PER_PAGE = 20
-PAGES_TO_FETCH_INCREMENTALLY  = 5
+PAGES_TO_FETCH_INCREMENTALLY  = 2
 MAX_WORKERS_API = 10 
 
 @app.route("/manifest.json")
@@ -118,7 +118,7 @@ def cache_manage(skip, now):
                 cached_movies = data.get("movies", [])
                 count = data.get("count")
                 
-            if last_updated_str and skip < (count // ITEMS_PER_PAGE):
+            if last_updated_str and skip < count:
                 last_updated = datetime.fromisoformat(last_updated_str)
                 
                 if now - last_updated < timedelta(hours=CACHE_DURATION_HOURS):
@@ -172,14 +172,20 @@ def get_movies(skip, now):
 def save_cache(movies_for_stremio, now):
     if movies_for_stremio:
         try:
-            with open(CACHE_FILE, "w") as file:
+            with open(CACHE_FILE, "r") as file:
                 try:
                     data = json.load(file)
                     count = data.get("count")
+                    cached_movies = data.get("movies", [])
                 except:
                     count = 0
+                    cached_movies = []
+                    
+            cached_movies.extend(movies_for_stremio)
+            
+            with open(CACHE_FILE, "w") as file:
                 json.dump({
-                    "movies": movies_for_stremio,
+                    "movies": cached_movies,
                     "last_updated": now.isoformat(), 
                     "count": (len(movies_for_stremio) + count)
                 }, file, indent=4) 
