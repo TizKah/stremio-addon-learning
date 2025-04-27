@@ -1,0 +1,12 @@
+{
+    "metas": [
+        { 
+            "type": "movie", 
+            "id": "stream_pc", 
+            "name": "Watch PC",
+            "poster": "https://images.metahub.space/poster/medium/tt0032138/img",
+            "background": "https://images.metahub.space/background/medium/tt0032138/img",
+            "description": "Stream your PC screen live!"
+        }
+    ]
+}

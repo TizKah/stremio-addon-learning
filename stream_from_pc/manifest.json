@@ -1,0 +1,17 @@
+{
+    "id": "app.stremio.stream",
+    "version": "1.0.0",
+    "name": "Stream your PC",
+    "description": "Shows PC screen",
+    "resources": [ "meta", "catalog", "stream"],
+    "types": ["movie"],
+    "catalogs": [
+      {
+        "id": "pc_stream",
+        "type": "movie",
+        "name": "Stream your PC"
+      }
+    ],
+    "idPrefixes": ["stream_pc"]
+}
+  
