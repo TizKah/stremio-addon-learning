@@ -25,6 +25,12 @@ def get_local_ip():
 def manifest():
     return send_file("manifest.json")
 
+
+@app.route("/catalog/movie/pc_stream.json")
+def catalog():
+    return send_file("catalog/movie/pc_stream.json")
+
+
 @app.route("/meta/movie/<id>.json")
 def meta(id):
     if id != "stream_pc":
@@ -39,7 +45,7 @@ def meta(id):
         "description": "Stream your PC screen directly!"
       }
     }
-    return jsonify(data)
+    return make_response(jsonify(data))
 
 @app.route("/stream/movie/<id>.json")
 def stream(id):
@@ -56,7 +62,7 @@ def stream(id):
         }
       ]
     }
-    return jsonify(data)
+    return make_response(jsonify(data))
 
 
 def generate():
